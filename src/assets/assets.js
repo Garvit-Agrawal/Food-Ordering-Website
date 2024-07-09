@@ -63,6 +63,7 @@ import empty_cart from './empty_cart.png'
 import upi from './upi.png'
 import card from './card.png'
 import my_order from './my_order.png'
+import delete_from_cart from './delete_from_cart.png'
 export const assets = {
     logo,
     basket_icon,
@@ -86,7 +87,8 @@ export const assets = {
     empty_cart,
     upi,
     card,
-    my_order
+    my_order,
+    delete_from_cart
 }
 
 export const menu_list = [
